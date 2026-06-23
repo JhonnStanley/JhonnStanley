@@ -1,11 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C2A8,45:2563EB,100:7C3AED&text=Jhonn%20Stanley%20Ricardo%20Sierra&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Co-founder%20of%20FitManager%20Pro&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C2A8,45:2563EB,100:7C3AED&text=Jhonn%20Stanley%20Ricardo%20Sierra&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Founder%20of%20FitManager%20Pro&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=900&lines=Building+fitness+SaaS+for+personal+trainers;React+%2B+Firebase+%2B+Capacitor+%2B+AI;Shipping+real+products+from+Medellin%2C+Colombia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=900&lines=I+built+an+AI-powered+fitness+SaaS;React+%2B+Firebase+%2B+Capacitor+%2B+AI;Shipping+real+products+from+Medellin%2C+Colombia)](https://git.io/typing-svg)
 
 [![FitManager Pro](https://img.shields.io/badge/FitManager%20Pro-LIVE-00C2A8?style=for-the-badge&logo=rocket&logoColor=white)](https://fitmanagerpro.com.co)
-[![GitHub](https://img.shields.io/badge/GitHub-perezkatira5--rgb-181717?style=for-the-badge&logo=github)](https://github.com/perezkatira5-rgb)
+[![GitHub](https://img.shields.io/badge/GitHub-JhonnStanley-181717?style=for-the-badge&logo=github)](https://github.com/JhonnStanley)
 [![Medellin](https://img.shields.io/badge/Medellin-Colombia-F7B801?style=for-the-badge&logo=googlemaps&logoColor=111111)](#)
 
 </div>
@@ -22,7 +22,7 @@
 
 ## Product
 
-**FitManager Pro** is a B2B fitness platform for personal trainers: routines, nutrition, clients, chat, payments, mobile apps, and AI-assisted workflows in one product.
+**FitManager Pro** is the AI-powered fitness SaaS I founded and built for personal trainers: routines, nutrition, clients, chat, payments, mobile apps, and AI-assisted workflows in one product.
 
 I build practical software with clean UX, security habits, and business value. The goal is simple: help trainers work faster, serve clients better, and run a stronger fitness business.
 
@@ -58,11 +58,11 @@ Firebase architecture  AI workflows              Security-first habits
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=perezkatira5-rgb&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00C2A8&icon_color=F7B801&text_color=FFFFFF)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonnStanley&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00C2A8&icon_color=F7B801&text_color=FFFFFF)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perezkatira5-rgb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2A8&text_color=FFFFFF)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnStanley&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2A8&text_color=FFFFFF)
 
-![Streak](https://streak-stats.demolab.com?user=perezkatira5-rgb&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2A8&fire=F7B801&currStreakLabel=00C2A8)
+![Streak](https://streak-stats.demolab.com?user=JhonnStanley&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2A8&fire=F7B801&currStreakLabel=00C2A8)
 
 </div>
 
