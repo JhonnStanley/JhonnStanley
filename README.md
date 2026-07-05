@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C2A8,45:2563EB,100:7C3AED&text=Jhonn%20Stanley%20Ricardo%20Sierra&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Founder%20of%20FitManager%20Pro&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C2A8,45:2563EB,100:7C3AED&text=Jhonn%20Stanley%20Ricardo%20Sierra&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Founder%20of%20FitManager%20Pro&descAlignY=58&descSize=18&animatio=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=900&lines=I+built+an+AI-powered+fitness+SaaS;React+%2B+Firebase+%2B+Capacitor+%2B+AI;Shipping+real+products+from+Medellin%2C+Colombia)](https://git.io/typing-svg)
 
